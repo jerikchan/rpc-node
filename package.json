@@ -1,0 +1,26 @@
+{
+  "name": "@fk/rpc-node",
+  "version": "0.0.0",
+  "description": "A Nodejs RPC Library.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerikchan/rpc-node.git"
+  },
+  "keywords": [
+    "rpc"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerikchan/rpc-node/issues"
+  },
+  "homepage": "https://github.com/jerikchan/rpc-node#readme"
+}
