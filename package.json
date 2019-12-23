@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jerikchan/rpc-node/issues"
   },
-  "homepage": "https://github.com/jerikchan/rpc-node#readme"
+  "homepage": "https://github.com/jerikchan/rpc-node#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "is-type-of": "^1.2.1",
+    "sdk-base": "^3.6.0"
+  }
 }
