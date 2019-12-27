@@ -24,8 +24,15 @@
   },
   "homepage": "https://github.com/jerikchan/rpc-node#readme",
   "dependencies": {
+    "address": "^1.1.2",
     "assert": "^2.0.0",
+    "byte": "^2.0.0",
+    "graceful": "^1.0.2",
     "is-type-of": "^1.2.1",
+    "pump": "^3.0.0",
     "sdk-base": "^3.6.0"
-  }
+  },
+  "__npminstall_done": "Wed Dec 25 2019 22:29:13 GMT+0800 (China Standard Time)",
+  "_from": "@fk/rpc-node@0.0.1",
+  "_resolved": "http://registry.npm.faidev.cc/@fk/rpc-node/download/@fk/rpc-node-0.0.1.tgz"
 }
